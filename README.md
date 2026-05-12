@@ -9,10 +9,6 @@
 
 ---
 
-⭐ If you like this project, consider giving it a **star** on GitHub!
-
----
-
 # 📌 Project Overview
 
 Customer churn is a major concern for financial institutions because retaining existing customers is significantly more cost-effective than acquiring new ones.
